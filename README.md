@@ -28,7 +28,7 @@ Here is our flyer with this year's information and FAQs:     [**DataFest 2025 fo
 ## Faculty and students wishing to participate
 
 Please click the link to the form to register your team:  https://forms.gle/jCddCmnAoXic6FdDA. 
-Team registration is due by Monday, April 7th.
+**Team registration is due by Monday, April 7th.**
 
 
 ## We Need Judges
@@ -44,5 +44,5 @@ This event cannot run without the support of volunteer judges.
  
   There may also be an overall Judges' Choice Award
 
-  Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA 
+  **Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA**
 
