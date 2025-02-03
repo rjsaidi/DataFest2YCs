@@ -1,4 +1,5 @@
-# DataFest2YCs
+# DataFest2YCs --- April 11 - 13, 2025
+
 American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) through AMATYC
 
 **DataFest for Two-Year Colleges** is a partnership between ASA and AMATYC (American Mathematics Association for Two-Year Colleges). We offer this data challenge to two-year college students in teams of 2-5. 
@@ -22,16 +23,9 @@ After two days of intense data wrangling, analysis, and presentation design, eac
 
 ## Faculty and students wishing to participate
 
-Please click the link to the form to register your team. Team registration is due by XXXXXXXXXXXXXXXXXXXXXXXXXXX.
+Please click the link to the form to register your team:  https://forms.gle/jCddCmnAoXic6FdDA. 
+Team registration is due by Monday, April 7th.
 
-## We Need Mentors
-
-This event cannot run without the support of volunteer mentors.
-
-**Mentor Role**
-- You will be assigned to two teams. You will meet with each team for about one hour each on Saturday and Sunday to provide feedback to the teams.
-
-Please click the link to the form to register as a mentor.
 
 ## We Need Judges
 
@@ -46,5 +40,5 @@ This event cannot run without the support of volunteer judges.
  
   There may also be an overall Judges' Choice Award
 
-  Please click the link to the form to register as a judge.
+  Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA 
 
