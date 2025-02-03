@@ -19,6 +19,10 @@ After two days of intense data wrangling, analysis, and presentation design, eac
 - Provide students with the opportunity to compete against other 2YC teams from around the US
 - Reward outstanding student teams with judges' awards
 
+## Check Out Our Flyer
+
+Here is our flyer with this year's information and FAQs:     [**DataFest 2025 for TYCs**](./2025TYCDataFestFlyer.pdf)
+
 # How to Get Involved
 
 ## Faculty and students wishing to participate
