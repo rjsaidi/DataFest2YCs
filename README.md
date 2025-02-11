@@ -23,6 +23,8 @@ After two days of intense data wrangling, analysis, and presentation design, eac
 
 Here is our flyer with this year's information and FAQs:     [**DataFest 2025 for TYCs**](./2025TYCDataFestFlyer.pdf)
 
+Here is a sample timeline for teams to help with expections:  [**Sample Weekend Timeline**](./Sample_Weekend_Timeline.pdf)
+
 # How to Get Involved
 
 ## Faculty and students wishing to participate
