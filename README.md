@@ -1,4 +1,6 @@
-# DataFest2YCs -- April 11 - 13, 2025
+# DataFest2YCs 
+
+**The 2025 event will be held during the weekend of April 11 - 13**
 
 American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) through AMATYC
 
