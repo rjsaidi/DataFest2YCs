@@ -6,7 +6,7 @@ American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) thro
 
 **DataFest for Two-Year Colleges** is a partnership between ASA and AMATYC (American Mathematics Association for Two-Year Colleges). We offer this data challenge to two-year college students in teams of 2-5. 
 
-## What is DataFest? 
+# What is DataFest? 
 
 DataFest is a celebration of data in which teams of undergraduates work around the clock over a two-day period to find and share meaning in a large, rich, and complex data set.
 
@@ -14,7 +14,7 @@ A key feature of ASA DataFest is that it brings together the data science commun
 
 After two days of intense data wrangling, analysis, and presentation design, each team is allowed a few minutes and no more than two slides to impress a panel of judges. Awards are given for Best in Show, Best Visualization, and Best Use of External Data.
 
-## Goals of DataFest for 2YCs
+# Goals of DataFest for 2YCs
 
 - Provide students to work with large, rich, complex datasets
 - Provide students to work in a collaborative environment
