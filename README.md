@@ -1,6 +1,6 @@
 # DataFest2YCs 
 
-[![github](https://cloud.githubusercontent.com/assets/datafestT-shirt.pdf)][1]
+[![github](./datafestT-shirt.pdf)][1]
 
 **The 2025 event will be held during the weekend of April 11 - 13**
 
