@@ -1,6 +1,6 @@
 # DataFest2YCs 
 
-[![github](./datafestT-shirt.pdf)][1]
+[![github](./datafestT-shirt.pdf)
 
 **The 2025 event will be held during the weekend of April 11 - 13**
 
@@ -51,6 +51,4 @@ This event cannot run without the support of volunteer judges.
   There may also be an overall Judges' Choice Award
 
   **Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA**
-
-[1]: http://www.github.com/rjsaidi
 
