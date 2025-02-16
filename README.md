@@ -1,5 +1,7 @@
 # DataFest2YCs 
 
+[![github](https://cloud.githubusercontent.com/assets/datafestT-shirt.pdf)][1]
+
 **The 2025 event will be held during the weekend of April 11 - 13**
 
 American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) through AMATYC
@@ -49,4 +51,6 @@ This event cannot run without the support of volunteer judges.
   There may also be an overall Judges' Choice Award
 
   **Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA**
+
+[1]: http://www.github.com/rjsaidi
 
