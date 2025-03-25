@@ -12,7 +12,7 @@ DataFest is a celebration of data in which teams of undergraduates work around t
 
 A key feature of ASA DataFest is that it brings together the data science community. Undergraduate students do the work, but they may be assisted by consultants who are alumni, graduate students, faculty, and industry professionals. Many professionals find ASA DataFest to be a great recruiting opportunity–they get to watch talented undergraduate students work under pressure in a team and examine their thinking processes.
 
-After two days of intense data wrangling, analysis, and presentation design, each team is allowed a few minutes and no more than two slides to impress a panel of judges. Awards are given for Best in Show, Best Visualization, and Best Statistical Analysis.
+After two days of intense data wrangling, analysis, and presentation design, each team is allowed 2 slides (plus one title slide) and a maximum 5-minute video presentation to impress a panel of judges. Awards are given for Best in Show, Best Visualization, and Best Statistical Analysis.
 
 # Goals of DataFest for 2YCs
 
