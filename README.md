@@ -34,6 +34,7 @@ Here is a sample timeline for teams to help with expections:  [**Sample Weekend 
 Please click the link to the form to register your team:  https://forms.gle/jCddCmnAoXic6FdDA. 
 **Team registration is due by Monday, April 7th.**
 
+Student winners will be provided with a free one-year student membership with the American Statistical Association (ASA).
 
 ## We Need Judges
 
