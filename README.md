@@ -46,7 +46,7 @@ This event cannot run without the support of volunteer judges.
 - You will score the teams' submissions and vote on three awards:
     - Best Insights
     - Best Visualizations
-    - Best Use of Outside Data
+    - Best Statistical Analysis
  
   There may also be an overall Judges' Choice Award
 
