@@ -44,7 +44,7 @@ This event cannot run without the support of volunteer judges.
 
 **Judge Role**
 - You will be assigned to review team submissions, which include 3 slides and a maximum 5-minute video presentation.
-- Judging will take place throughout the week after the event ends on April 13th, with awards being announced sometime during the week of April 21st.
+- Judging will take place throughout the week after the event ends on March 29th, with awards being announced sometime during the week of April 5th.
 - You will score the teams' submissions and vote on three awards:
     - Best Insights
     - Best Visualizations
