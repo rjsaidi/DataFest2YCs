@@ -1,6 +1,6 @@
 # DataFest2YCs 
 
-**The 2025 event will be held during the weekend of April 11 - 13**
+**The 2026 event will be held during the weekend of March 27 - 29**
 
 American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) through AMATYC
 
@@ -25,7 +25,7 @@ Here is a fun 3-page article from Sept 2025 AMSTAT News about the 2025 event: [*
 
 ## Check Out Our Flyer with FAQs
 
-Here is our flyer with this year's information and FAQs:     [**DataFest 2025 for TYCs**](./2025TYCDataFestFlyer.pdf)
+Here is our flyer with this year's information and FAQs:     [**DataFest 2026 for TYCs**](./2026_TYC_DataFest_Flyer.pdf)
 
 Here is a sample timeline for teams to help with expections:  [**Sample Weekend Timeline**](./Sample_Weekend_Timeline.pdf)
 
@@ -33,8 +33,8 @@ Here is a sample timeline for teams to help with expections:  [**Sample Weekend 
 
 ## Faculty and students wishing to participate
 
-Please click the link to the form to register your team:  https://forms.gle/jCddCmnAoXic6FdDA. 
-**Team registration is due by Monday, April 7th.**
+Please click the link to the form to register your team:  [https://forms.gle/jCddCmnAoXic6FdDA](https://docs.google.com/forms/d/e/1FAIpQLSe3oPXJFKtWOMRSQZVtiHXhLXabc0MirrtZUjQRmnpO3yPADw/viewform). 
+**Team registration is due by Friday, March 13th.**
 
 Student winners will be provided with a free one-year student membership with the American Statistical Association (ASA).
 
