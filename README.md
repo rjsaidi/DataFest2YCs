@@ -52,7 +52,7 @@ This event cannot run without the support of volunteer judges.
  
   There may also be an overall Judges' Choice Award
 
-  **Please click the link to the form to register as a judge: https://forms.gle/W6Rb6zr3rdf3YhdKA**
+  **Please click the link to the form to register as a judge: **https://forms.gle/7Y7v7omSS8wDKVq9A**
 
 # Would you like to create a t-shirt for your school's team?
 
