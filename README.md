@@ -14,6 +14,8 @@ A key feature of ASA DataFest is that it brings together the data science commun
 
 After two days of intense data wrangling, analysis, and presentation design, each team is allowed 2 slides (plus one title slide) and a maximum 5-minute video presentation to impress a panel of judges. Awards are given for Best in Show, Best Visualization, and Best Statistical Analysis.
 
+Here is a fun 3-page article from Sept 2025 AMSTAT News about the 2025 event: [**DataFest for TYC Article from AMSTAT News**](./SEPTEMBER25_wordpress_DataFestTYC.pdf)
+
 # Goals of DataFest for 2YCs
 
 - Provide students to work with large, rich, complex datasets
