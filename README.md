@@ -8,7 +8,7 @@ American Statistical Association (ASA) DataFest for Two-Year Colleges (2YC) thro
 
 # What is DataFest? 
 
-DataFest is a weekend-long celebration of data in which teams of undergraduates work around the clock over a two-day period to find and share meaning in a large, rich, and complex data set. More information about ASA DataFest can be found at [**this link**] (./https://ww2.amstat.org/education/datafest/)
+DataFest is a weekend-long celebration of data in which teams of undergraduates work around the clock over a two-day period to find and share meaning in a large, rich, and complex data set. More information about ASA DataFest can be found at **this link**: https://ww2.amstat.org/education/datafest
 
 A key feature of ASA DataFest is that it brings together the data science community. Undergraduate students do the work, but they may be assisted by consultants who are alumni, graduate students, faculty, and industry professionals. Many professionals find ASA DataFest to be a great recruiting opportunity–they get to watch talented undergraduate students work under pressure in a team and examine their thinking processes.
 
